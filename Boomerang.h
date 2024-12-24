@@ -1,7 +1,7 @@
 /***********************************************************
  ** File:    Boomerang.h
  ** Project: CMSC 202 - Project 4
- ** Author:  Jeremy Dixon
+ ** Author:  Hazael Magino
  ** Date     3/31/2023
  ** Section: N/A
  ** This file contains the header file of the Boomerang class
